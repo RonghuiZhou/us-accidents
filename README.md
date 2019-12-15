@@ -7,10 +7,10 @@ in progress...
 
 Questions:
 
-1. Time distribution of accidents
+1. Time distribution: avoid travelling during this time on weekdays vs. weekends
 
-2. Location of accidents
+2. Location of most accidents
 
-3. Weather effects
+3. Weather effects on severity
 
 4. Predict accident severity
