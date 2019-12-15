@@ -11,4 +11,6 @@ Questions:
 
 2. Location of accidents
 
-3. Weather effects.
+3. Weather effects
+
+4. Predict accident severity
