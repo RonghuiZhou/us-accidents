@@ -2,6 +2,7 @@
 https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 I am focusing on 3 states: PA, NJ, & NY.
+I changed my mind today to include 5 states to cover the home of my colleagues at Janssen: PA, NJ, NY, DE, & CA.
 
 in progress...
 
