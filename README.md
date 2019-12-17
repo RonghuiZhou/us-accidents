@@ -2,16 +2,18 @@
 https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 I am focusing on 3 states: PA, NJ, & NY.
-I changed my mind today to include 5 states to cover the home of my colleagues at Janssen: PA, NJ, NY, DE, & CA.
+I changed my mind today to include 6 states to cover the home of my colleagues at Janssen: PA, NJ, NY, DE, CA & FL.
 
 in progress...
 
+How you can drive safely in 2020
+
 Questions:
 
-1. Time distribution: avoid travelling during this time on weekdays vs. weekends
+1. When
 
-2. Location of most accidents
+2. Where
 
-3. Weather effects on severity
+3. Weather
 
 4. Predict accident severity
