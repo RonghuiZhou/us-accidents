@@ -2,7 +2,6 @@
 https://www.kaggle.com/sobhanmoosavi/us-accidents
 
 I am focusing on 3 states: PA, NJ, & NY.
-I changed my mind today to include 6 states to cover the home of my colleagues at Janssen: PA, NJ, NY, DE, CA & FL.
 
 in progress...
 
@@ -17,3 +16,5 @@ Questions:
 3. Weather
 
 4. Predict accident severity
+
+KNN prediction
