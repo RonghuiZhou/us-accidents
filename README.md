@@ -1,29 +1,46 @@
-# us-accidents
+# How You Can Avoid Car Accident in 2020
+
+## Content:
+
+### Part I. Exploratory Data Analysis
+  #### 1. How long does it take to clear the accident?
+  #### 2. When to avoid driving or be extremely careful?
+  #### 3. Where to avoid drivingor or be extremely careful?
+  #### 4. What weather to avoid driving or be extremely careful?
+
+
+### Part II. Machine Learning to Predict Accident Severity by State
+Machine Learning for US Accidents_PA_Mont_RZhou.ipynb
+  #### Logistic Regression
+  #### KNN prediction
+  #### Decision Trees
+  #### Random Forest
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+### Data source
 https://www.kaggle.com/sobhanmoosavi/us-accidents
 
-I am focusing on 3 states: PA, NJ, & NY.
 
-in progress...
+### Acknowledgements
 
-How you can drive safely in 2020
+Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
-Questions:
-
-1. When to avoid driving or be extremely careful
-
-2. Where to avoid drivingor or be extremely careful
-
-3. What weather to avoid driving or be extremely careful
-
-4. Predict accident severity
-
-Logistic Regression
-KNN prediction
-Decision Trees
-Random Forest
+Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 
 
-Machine Learning for US Accidents_PA_Mont_RZhou.ipynb
+####  Author
+Ronghui Zhou, zhou.uf@gmail.com
+https://github.com/RonghuiZhou
 
 
 
