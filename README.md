@@ -11,10 +11,10 @@
 
 ### Part II. Machine Learning to Predict Accident Severity by State
 Machine Learning for US Accidents_PA_Mont_RZhou.ipynb
-  #### Logistic Regression
-  #### KNN prediction
-  #### Decision Trees
-  #### Random Forest
+  #### 1. Logistic Regression
+  #### 2. KNN prediction
+  #### 3. Decision Trees
+  #### 4. Random Forest
 
 
 
