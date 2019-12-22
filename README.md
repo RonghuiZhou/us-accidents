@@ -76,3 +76,4 @@ Student must have a Github repository of their project. The repository must have
 
 Post on Kaggle:
 https://www.kaggle.com/phip2014/machine-learning-to-predict-accident-severity-pa
+https://www.kaggle.com/phip2014/ml-to-predict-accident-severity-pa-mont
