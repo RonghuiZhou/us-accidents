@@ -3,6 +3,7 @@
 ## Content:
 
 ## Part I. Exploratory Data Analysis
+https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20NJ%2C%20PA%20%26%20NY%20data.ipynb
 
 ### Step 1. Import libraries
 ### Step 2. Parameters, dataset and data manipulation
@@ -35,6 +36,14 @@
 
 
 ## Part II. Machine Learning to Predict Accident Severity by State
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_PA_RZhou.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_PA_Mont_RZhou.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_NJ_RZhou.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_NY_RZhou.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_FL_RZhou.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_DE_RZhou.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_CA_RZhou.ipynb
+
 Machine Learning for US Accidents_PA_Mont_RZhou.ipynb
   #### 1. Logistic Regression
   #### 2. KNN prediction
