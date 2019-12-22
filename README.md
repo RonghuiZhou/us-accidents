@@ -4,6 +4,7 @@
 
 ## Part I. Exploratory Data Analysis
 https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20NJ%2C%20PA%20%26%20NY%20data.ipynb
+https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20DE%2C%20FL%20%26%20CA%20data.ipynb
 
 ### Step 1. Import libraries
 ### Step 2. Parameters, dataset and data manipulation
