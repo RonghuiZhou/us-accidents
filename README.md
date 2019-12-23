@@ -2,7 +2,6 @@
 
 [See the post on Medium.com](https://medium.com/@RonghuiZhou/how-you-can-avoid-car-accident-in-2020-c9626c9b6f68).
 
-[See the post on Medium.com] (https://medium.com/@RonghuiZhou/how-you-can-avoid-car-accident-in-2020-c9626c9b6f68)
 
 ## Content:
 
@@ -89,6 +88,8 @@ Student must have a Github repository of their project. The repository must have
 
 
 Post on Kaggle:
-https://www.kaggle.com/phip2014/exploratory-data-analysis-for-the-nj-pa-ny-data
-https://www.kaggle.com/phip2014/machine-learning-to-predict-accident-severity-pa
-https://www.kaggle.com/phip2014/ml-to-predict-accident-severity-pa-mont
+[EDA for NJ_PA_NY](https://www.kaggle.com/phip2014/exploratory-data-analysis-for-the-nj-pa-ny-data)
+[Machine Learning to Predict Accident Severity for PA](https://www.kaggle.com/phip2014/machine-learning-to-predict-accident-severity-pa)
+[Machine Learning to Predict Accident Severity for PA-Montgomery](https://www.kaggle.com/phip2014/ml-to-predict-accident-severity-pa-mont)
+
+
