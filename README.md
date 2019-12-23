@@ -1,5 +1,7 @@
 # How You Can Avoid Car Accident in 2020
 
+[See the post on Medium.com] (https://medium.com/@RonghuiZhou/how-you-can-avoid-car-accident-in-2020-c9626c9b6f68)
+
 ## Content:
 
 ## Part I. Exploratory Data Analysis
