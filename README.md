@@ -6,58 +6,25 @@
 ## Content:
 
 ## Part I. Exploratory Data Analysis
-https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20NJ%2C%20PA%20%26%20NY%20data.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20DE%2C%20FL%20%26%20CA%20data.ipynb
+[For NJ, PA & NY](https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20NJ%2C%20PA%20%26%20NY%20data.ipynb)
 
-### Step 1. Import libraries
-### Step 2. Parameters, dataset and data manipulation
-   #### A. Define parameters
-   #### B. Import the dataset
-   #### C. Data manipulation: extract year, month, day, hour, weekday, and time to clear accidents
-### Step 3. Exploratory Data Analysis -- General
-   #### Accident visualization A: accident map
-   #### Accident visualization B: time series analysis, resample by month
-   #### Accident visualization C: accident severity distribution for each state
-   #### Accident visualization D: how long does it take to clear the accident?
-### Step 4. Exploratory Data Analysis -- WWW (When, Where, & Weather)
-   #### Question 1: When do most accidents happen?      
-   ##### A. Daytime versus nighttime
-   ##### B. Weekday versus weekend
-   ##### C. Rush hour
-
-   #### Question 2: Where do most accidents happen?      
-   ##### A. County
-   ##### B. City
-   ##### C. Zipcode
-   ##### D. Street side
-   ##### E. Location
-
-   #### Question 3: With what weather condition do most accidents happen?      
-   ##### A. Top weather conditions with accidents
-   ##### B. Accident severity for the top 3 weather conditions
-   ##### C. Weather conditions for each accident severity (2, 3, & 4)
-
-
+[For DE, FL & CA](https://github.com/RonghuiZhou/us-accidents/blob/master/Exploratory%20Data%20Analysis%20for%20the%20DE%2C%20FL%20%26%20CA%20data.ipynb)
 
 ## Part II. Machine Learning to Predict Accident Severity by State
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_PA_RZhou.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_PA_Mont_RZhou.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_NJ_RZhou.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_NY_RZhou.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_FL_RZhou.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_DE_RZhou.ipynb
-https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_CA_RZhou.ipynb
-
-Machine Learning for US Accidents_PA_Mont_RZhou.ipynb
-  #### 1. Logistic Regression
-  #### 2. KNN prediction
-  #### 3. Decision Trees
-  #### 4. Random Forest
+[PA](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_PA_RZhou.ipynb)  
+[PA-Montgomery](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_PA_Mont_RZhou.ipynb)  
+[NJ](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_NJ_RZhou.ipynb)  
+[NY](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_NY_RZhou.ipynb)  
+[DE](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_DE_RZhou.ipynb)  
+[FL](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_FL_RZhou.ipynb)  
+[CA](https://github.com/RonghuiZhou/us-accidents/blob/master/Machine%20Learning%20for%20US%20Accidents_CA_RZhou.ipynb)  
 
 
-
-
-
+Machine Learning Algorithms:
+  #### 1. Logistic Regression  
+  #### 2. KNN prediction  
+  #### 3. Decision Trees  
+  #### 4. Random Forest  
 
 
 
