@@ -1,6 +1,4 @@
-**_Screenshot 2: classify message_**
-
-![Accident Map]("accident map-US.png")
+![Map](/figure/accident.png)
 
 # How You Can Avoid Car Accident in 2020
 
