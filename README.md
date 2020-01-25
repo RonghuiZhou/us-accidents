@@ -1,8 +1,12 @@
+**_Screenshot 2: classify message_**
+
+![Accident Map](/accident map-US.png)
+
 # How You Can Avoid Car Accident in 2020
+
 
 [See the post on Medium.com](https://medium.com/@RonghuiZhou/how-you-can-avoid-car-accident-in-2020-c9626c9b6f68).
 
-![US Accident Map](accident map-US.png)
 
 ## Content:
 
