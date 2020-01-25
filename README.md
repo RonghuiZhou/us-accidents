@@ -2,6 +2,7 @@
 
 [See the post on Medium.com](https://medium.com/@RonghuiZhou/how-you-can-avoid-car-accident-in-2020-c9626c9b6f68).
 
+![US Accident Map](accident map-US.png)
 
 ## Content:
 
