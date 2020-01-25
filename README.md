@@ -1,4 +1,5 @@
 ![Map](/figure/accident.png)
+![ML Feature](/figure/feature.png)
 
 # How You Can Avoid Car Accident in 2020
 
